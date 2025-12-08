@@ -1,5 +1,5 @@
 {
-  "homepage": "https://jackthegeat.github.io/react-site/",
+  "homepage": "https://jackthegeat.github.io/react-site",
   "name": "react-site",
   "private": true,
   "version": "0.0.0",
@@ -14,7 +14,8 @@
   },
   "dependencies": {
     "react": "^19.2.0",
-    "react-dom": "^19.2.0"
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^7.10.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
