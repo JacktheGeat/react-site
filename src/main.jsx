@@ -8,8 +8,7 @@ root.render(
   <React.StrictMode>
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<App />} />
-        {/* Add other routes here */}
+        <Route path="/react-site" element={<App />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>
